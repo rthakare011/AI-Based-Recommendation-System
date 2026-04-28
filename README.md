@@ -87,7 +87,7 @@ Java and Maven project structure
 The AI-Based Recommendation System is an important and practical project that demonstrates how intelligent systems can improve user experience by providing personalized suggestions. It shows how data can be used effectively to predict user preferences and make smart decisions.
 
 ## OUTPUT
-
+<img width="1619" height="909" alt="Image" src="https://github.com/user-attachments/assets/de3dc453-1b2f-48d4-b958-c98740444517" />
 
 This project can be further improved by adding features like real-time data updates, advanced machine learning models, user login systems, and graphical interfaces.
 
